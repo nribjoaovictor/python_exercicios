@@ -1,5 +1,5 @@
-
 import random 
+#falta criar as condionais que impossibilitam de acontecer
 #ver videos sobre arquivos python
 def print_matriz(matriz_print):
     linhas=len(matriz_print)
