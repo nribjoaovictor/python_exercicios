@@ -1,0 +1,301 @@
+ o,the  
+ a,the  
+ e,and  
+ de,of  
+ em,in  
+ que,that  
+ um,a  
+ para,for  
+ com,with  
+ não,no  
+ uma,a  
+ os,the  
+ no,in the  
+ se,if  
+ na,in the  
+ por,by  
+ mais,more  
+ tudo,everything  
+ como,as  
+ já,already  
+ mas,but  
+ ou,or  
+ quando,when  
+ isso,that  
+ também,also  
+ só,only  
+ eu,I  
+ nós,we  
+ ele,he  
+ ela,she  
+ eles,they  
+ delas,theirs  
+ estes,these  
+ aquelas,those  
+ ser,to be  
+ estar,to be  
+ ter,to have  
+ fazer,to do  
+ dizer,to say  
+ ir,to go  
+ ver,to see  
+ saber,to know  
+ poder,to be able to  
+ querer,to want  
+ dar,to give  
+ vir,to come  
+ falar,to speak  
+ trabalhar,to work  
+ viver,to live  
+ gostar,to like  
+ achar,to find  
+ precisar,to need  
+ esperar,to wait  
+ ouvir,to hear  
+ escrever,to write  
+ pensar,to think  
+ entender,to understand  
+ lembrar,to remember  
+ aprender,to learn  
+ estudar,to study  
+ perguntar,to ask  
+ responder,to answer  
+ passar,to pass  
+ começar,to begin  
+ terminar,to finish  
+ entrar,to enter  
+ sair,to leave  
+ andar,to walk  
+ jogar,to play  
+ comer,to eat  
+ beber,to drink  
+ dormir,to sleep  
+ acordar,to wake up  
+ correr,to run  
+ comprar,to buy  
+ vender,to sell  
+ ajudar,to help  
+ olhar,to look  
+ usar,to use  
+ precisar,to require  
+ conhecer,to know  
+ perguntar,to inquire  
+ resolver,to solve  
+ cortar,to cut  
+ subir,to rise  
+ descer,to descend  
+ viver,to live  
+ chamar,to call  
+ pagar,to pay  
+ ganhar,to win  
+ perder,to lose  
+ encontrar,to find  
+ conseguir,to succeed  
+ faltar,to miss  
+ mudar,to change  
+ continuar,to continue  
+ fazer,to make  
+ voltar,to return  
+ seguir,to follow  
+ aceitar,to accept  
+ pedir,to ask for  
+ lutar,to fight  
+ gostar,to enjoy  
+ tentar,to try  
+ esperar,to expect  
+ mentir,to lie  
+ acreditar,to believe  
+ construir,to build  
+ destruir,to destroy  
+ atingir,to reach  
+ mostrar,to show  
+ começar,to start  
+ aceitar,to agree  
+ agir,to act  
+ acontecer,to happen  
+ chamar,to name  
+ dar,to provide  
+ colocar,to put  
+ partir,to leave  
+ resolver,to fix  
+ ter,to own  
+ servir,to serve  
+ receber,to receive  
+ perceber,to notice  
+ tentar,to attempt  
+ esperar,to wait for  
+ estudar,to study  
+ esquecer,to forget  
+ trazer,to bring  
+ ajudar,to assist  
+ cuidar,to care  
+ precisar,to require  
+ faltar,to lack  
+ ganhar,to gain  
+ perder,to miss  
+ correr,to race  
+ andar,to move  
+ seguir,to pursue  
+ parar,to stop  
+ abrir,to open  
+ fechar,to close  
+ cortar,to trim  
+ buscar,to search  
+ falar,to talk  
+ ouvir,to listen  
+ ver,to view  
+ entender,to comprehend  
+ acreditar,to trust  
+ ajudar,to support  
+ explicar,to explain  
+ ensinar,to teach  
+ aprender,to learn  
+ perguntar,to inquire  
+ responder,to reply  
+ resolver,to resolve  
+ começar,to initiate  
+ terminar,to end  
+ contar,to count  
+ pegar,to grab  
+ perder,to drop  
+ continuar,to keep going  
+ repetir,to repeat  
+ interromper,to interrupt  
+ ver,to observe  
+ sair,to exit  
+ viver,to exist  
+ usar,to wear  
+ ouvir,to listen to  
+ tentar,to attempt  
+ esperar,to hope  
+ viver,to breathe  
+ buscar,to fetch  
+ falar,to chat  
+ procurar,to look for  
+ entender,to get  
+ conversar,to converse  
+ sugerir,to suggest  
+ resolver,to deal with  
+ demonstrar,to show  
+ explicar,to clarify  
+ mostrar,to display  
+ andar,to stroll  
+ correr,to jog  
+ sair,to go out  
+ falar,to speak up  
+ trabalhar,to toil  
+ viver,to thrive  
+ estudar,to read  
+ dormir,to rest  
+ lembrar,to recall  
+ descobrir,to discover  
+ aprender,to grasp  
+ ajudar,to contribute  
+ participar,to participate  
+ escrever,to note  
+ entender,to figure out  
+ contar,to tell  
+ concluir,to conclude  
+ viajar,to travel  
+ descansar,to rest  
+ oferecer,to offer  
+ esperar,to await  
+ beber,to sip  
+ cortar,to slice  
+ andar,to step  
+ crescer,to grow  
+ existir,to be  
+ responder,to respond  
+ convidar,to invite  
+ passar,to pass by  
+ chamar,to yell  
+ tentar,to endeavor  
+ ligar,to call  
+ viver,to be alive  
+ jogar,to toss  
+ fazer,to create  
+ dirigir,to drive  
+ ficar,to stay  
+ esperar,to anticipate  
+ olhar,to gaze  
+ levar,to take  
+ perguntar,to ask questions  
+ sair,to depart  
+ correr,to sprint  
+ sair,to walk out  
+ falar,to speak out  
+ aprender,to master  
+ procurar,to search for  
+ gostar,to appreciate  
+ ver,to glimpse  
+ ouvir,to catch  
+ beber,to gulp  
+ sentir,to feel  
+ passar,to go through  
+ olhar,to peer  
+ sorrir,to smile  
+ sofrer,to suffer  
+ morrer,to die  
+ salvar,to save  
+ tocar,to touch  
+ sentir,to sense  
+ preparar,to prepare  
+ lançar,to launch  
+ ver,to witness  
+ falar,to pronounce  
+ esquecer,to overlook  
+ viajar,to explore  
+ receber,to get  
+ aprender,to learn from  
+ escrever,to compose  
+ tirar,to take off  
+ encontrar,to bump into  
+ colocar,to place  
+ entender,to interpret  
+ admitir,to admit  
+ conseguir,to manage  
+ corrigir,to correct  
+ amar,to love  
+ cortar,to sever  
+ desistir,to quit  
+ precisar,to need help  
+ achar,to suppose  
+ aceitar,to accept  
+ desistir,to give up  
+ descansar,to relax  
+ imaginar,to imagine  
+ brincar,to play around  
+ falar,to discuss  
+ ajudar,to aid  
+ praticar,to practice  
+ gostar,to enjoy  
+ comentar,to comment  
+ abraçar,to embrace  
+ passar,to proceed  
+ esperar,to expect  
+ seguir,to trail  
+ experimentar,to experiment  
+ estudar,to review  
+ mostrar,to reveal  
+ aprender,to absorb  
+ trabalhar,to function  
+ dormir,to nap  
+ pedir,to request  
+ ajudar,to assist  
+ ouvir,to overhear  
+ sentir,to perceive  
+ seguir,to trace  
+ fazer,to conduct  
+ resolver,to settle  
+ tentar,to strive  
+ viver,to survive  
+ jogar,to engage  
+ mudar,to alter  
+ aprender,to refine  
+ sentir,to experience  
+ responder,to react  
+ contar,to recount  
+ olhar,to observe  
+ ver,to view 
+ fuder,to fuck
+ cachorro,dog 
