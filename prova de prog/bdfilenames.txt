@@ -1,0 +1,5 @@
+compras_maria.txt
+compras_carla.txt
+compras_pedro.txt
+compras_carlos.txt
+compras_marcos.txt

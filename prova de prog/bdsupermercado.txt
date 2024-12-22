@@ -1,0 +1,61 @@
+COD, DESCRICAO, CATEG, UNIDADE, PRECO
+1, Arroz Branco, Grãos, 1kg, 5.50  
+2, Feijão Carioca, Grãos, 1kg, 7.20  
+3, Açúcar Cristal, Açúcar, 1kg, 3.40  
+4, Farinha de Trigo, Farinhas, 1kg, 4.80  
+5, Óleo de Soja, Óleos, 900ml, 6.50  
+6, Leite Integral, Laticínios, 1L, 4.20  
+7, Manteiga, Laticínios, 200g, 7.90  
+8, Queijo Mussarela, Laticínios, 1kg, 34.50  
+9, Café Torrado, Bebidas, 500g, 15.60  
+10, Chá Mate, Bebidas, 200g, 6.80  
+11, Refrigerante Cola, Bebidas, 2L, 8.50  
+12, Água Mineral, Bebidas, 500ml, 1.20  
+13, Biscoito Recheado, Biscoitos, 140g, 2.80  
+14, Pão de Forma, Padaria, 400g, 6.00  
+15, Presunto, Frios, 1kg, 28.90  
+16, Iogurte Natural, Laticínios, 170g, 2.90  
+17, Sabão em Pó, Limpeza, 1kg, 9.80  
+18, Detergente Líquido, Limpeza, 500ml, 2.50  
+19, Amaciante de Roupas, Limpeza, 2L, 10.50  
+20, Shampoo, Higiene, 400ml, 14.90  
+21, Creme Dental, Higiene, 90g, 5.50  
+22, Papel Higiênico, Higiene, 4 unids, 12.00  
+23, Desodorante Roll-On, Higiene, 50ml, 8.30  
+24, Alface Crespa, Hortifruti, 1 unid, 2.00  
+25, Tomate, Hortifruti, 1kg, 5.80  
+26, Batata, Hortifruti, 1kg, 3.50  
+27, Cenoura, Hortifruti, 1kg, 4.20  
+28, Maçã Gala, Hortifruti, 1kg, 7.90  
+29, Frango Congelado, Carnes, 1kg, 10.80  
+30, Filé de Tilápia, Pescados, 1kg, 29.90  
+31, Carne Moída, Carnes, 1kg, 27.90  
+32, Picanha Bovina, Carnes, 1kg, 64.50  
+33, Linguiça Toscana, Carnes, 1kg, 18.90  
+34, Peito de Peru, Frios, 1kg, 32.80  
+35, Ovo de Galinha, Hortifruti, 12 unids, 9.50  
+36, Margarina, Laticínios, 500g, 5.80  
+37, Chocolate em Pó, Doces, 400g, 9.90  
+38, Barra de Chocolate, Doces, 90g, 4.50  
+39, Sorvete de Creme, Congelados, 2L, 18.00  
+40, Lasanha Congelada, Congelados, 600g, 16.90  
+41, Ervilha Congelada, Hortifruti, 300g, 5.40  
+42, Molho de Tomate, Alimentos, 340g, 3.90  
+43, Macarrão Espaguete, Massas, 500g, 3.80  
+44, Fubá Mimoso, Farinhas, 1kg, 4.10  
+45, Sal Refinado, Condimentos, 1kg, 2.50  
+46, Pimenta do Reino, Condimentos, 50g, 6.20  
+47, Vinagre de Álcool, Condimentos, 750ml, 2.30  
+48, Azeite de Oliva Extra Virgem, Condimentos, 500ml, 24.90  
+49, Maionese, Alimentos, 500g, 6.90  
+50, Milho Verde em Conserva, Alimentos, 200g, 3.40  
+51, Sardinha em Conserva, Pescados, 125g, 5.80  
+52, Atum em Conserva, Pescados, 170g, 7.50  
+53, Suco de Laranja Integral, Bebidas, 1L, 6.20  
+54, Bebida à Base de Soja, Bebidas, 1L, 7.10  
+55, Gelatina em Pó, Doces, 35g, 1.80  
+56, Creme de Leite, Laticínios, 200g, 3.50  
+57, Leite Condensado, Laticínios, 395g, 4.90  
+58, Pipoca para Micro-ondas, Snacks, 100g, 3.20  
+59, Batata Chips, Snacks, 100g, 5.40  
+60, Alho, Hortifruti, 200g, 4.60  
