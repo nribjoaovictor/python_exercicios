@@ -1,0 +1,10 @@
+TechNova, contact@technova.com, 0, 12, 12, 6  
+ByteCorp, info@bytecorp.io, 14, 15, 28, 8 
+SoftVision, support@softvision.net, 30, 13, 42, 7 
+DataSync, hello@datasync.co, 44, 14, 58, 8
+InovaTech, sales@inovatech.org, 0, 7, 10, 2  
+NextGen, contact@nextgen.biz, 12, 9, 26, 4  
+CloudWorks, team@cloudworks.ai, 28, 10, 48, 3 
+AI Solutions, support@aisolutions.com, 50, 8, 64, 4
+CodeFusion, info@codefusion.dev, 0, 3, 15, -2  
+CyberNet, hello@cybernet.tech, 17, 6, 35, -1  
